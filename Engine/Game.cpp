@@ -115,5 +115,5 @@ void Game::ComposeFrame()
 	startY = startingValues[1];
 	endX = startingValues[2];
 	endY = startingValues[3];
-
+	//PENISU
 }
